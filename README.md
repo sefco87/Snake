@@ -1,3 +1,3 @@
 # Snake
-This is a Simple Game based on the famous Game Snake from Nokia Mobile Devices
+This is a Simple HTML Based Game known from Nokia Mobile Devices, called Snake
 Still learning html&css
